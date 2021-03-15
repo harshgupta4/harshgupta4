@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshgupta4
+- 👋 Hi, I’m @harshgupta
 - 👀 I’m interested in Web Development, Android Development and DSA
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Development 
